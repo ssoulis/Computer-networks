@@ -19,7 +19,7 @@ switches, Docker instances, HPE VSRs, multiple Linux devices and more.
 
 PURPOSE OF PROJECT:
 
-1st - Assignment - Introduction to GNS3
+1st - Assignment - Introduction to GNS3 /n
 2nd - Assignment - Introduction to GNS3 Usage
 3rd - Assignment - Introduction to Using Mikrotik Router
 4th - Assignment - Cisco Router Configuration

@@ -32,6 +32,6 @@ The project report and the comments were originally written in Greek and were tr
 
 USER INSTRUCTIONS:
 
-You will need a running copy of GNS3 installed and various images that i have uploaded in the images folder.
+You will need a running copy of GNS3 installed.
 
 Thank you for your time!

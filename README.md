@@ -24,7 +24,7 @@ PURPOSE OF PROJECT:
 3rd - Assignment - Introduction to Using Mikrotik Router <br />
 4th - Assignment - Cisco Router Configuration <br />
 5th - Assignment - Implementation of backbone networks with mikrotik router and their interconnection with the BGP protocol <br />
-6th - Workshop - Introduction to VLAN use - VLAN trunking <br />
+6th - Assignment - Introduction to VLAN use - VLAN trunking <br />
 
 VERSION or DATE: SPRING 2023
 

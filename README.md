@@ -19,12 +19,12 @@ switches, Docker instances, HPE VSRs, multiple Linux devices and more.
 
 PURPOSE OF PROJECT:
 
-1st - Assignment - Introduction to GNS3 /n
-2nd - Assignment - Introduction to GNS3 Usage
-3rd - Assignment - Introduction to Using Mikrotik Router
-4th - Assignment - Cisco Router Configuration
-5th - Assignment - Implementation of backbone networks with mikrotik router and their interconnection with the BGP protocol
-6th - Workshop - Introduction to VLAN use - VLAN trunking
+1st - Assignment - Introduction to GNS3 <br />
+2nd - Assignment - Introduction to GNS3 Usage <br />
+3rd - Assignment - Introduction to Using Mikrotik Router <br />
+4th - Assignment - Cisco Router Configuration <br />
+5th - Assignment - Implementation of backbone networks with mikrotik router and their interconnection with the BGP protocol <br />
+6th - Workshop - Introduction to VLAN use - VLAN trunking <br />
 
 VERSION or DATE: SPRING 2023
 

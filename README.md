@@ -32,6 +32,7 @@ The project report and the comments were originally written in Greek and were tr
 
 USER INSTRUCTIONS:
 
-You will need a running copy of GNS3 installed.
+You will need a running copy of GNS3 installed. <br />
+Reports are currently written only in Greek and not yet translated.
 
 Thank you for your time!
